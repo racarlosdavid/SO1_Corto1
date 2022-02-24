@@ -4,7 +4,7 @@ Examen Corto 1
 # Instrucciomes
 - modificar el endpoint /nota con el nombre del estudiante.
 - agregar un dockerfile 
-- crear la imagen del backend con el siguiente formato <USER-DOCKERHUB>/corto1_<CARNET>
+- crear la imagen del backend con el siguiente formato "USER-DOCKERHUB"/corto1_"CARNET"
 - hacer push a dockerhub u otro registry
 
 # Restricciones 
